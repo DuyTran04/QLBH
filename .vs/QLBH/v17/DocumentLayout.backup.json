@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VAA 6\\New folder\\QLBH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|e:\\vaa 6\\new folder\\qlbh\\qlbh\\qlbh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\qlbh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|e:\\vaa 6\\new folder\\qlbh\\qlbh\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|e:\\vaa 6\\new folder\\qlbh\\qlbh\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|e:\\vaa 6\\new folder\\qlbh\\qlbh\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|e:\\vaa 6\\new folder\\qlbh\\qlbh\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|e:\\vaa 6\\new folder\\qlbh\\qlbh\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|e:\\vaa 6\\new folder\\qlbh\\qlbh\\fnewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\fnewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|e:\\vaa 6\\new folder\\qlbh\\qlbh\\fprocessorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\fprocessorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|e:\\vaa 6\\new folder\\qlbh\\qlbh\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|E:\\VAA 6\\New folder\\QLBH\\qlbh\\fprocessorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\fprocessorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|E:\\VAA 6\\New folder\\QLBH\\qlbh\\fnewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97C7B2B9-169F-4C1C-8880-5427AF05ECBF}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\fnewproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 485,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.cs",
+              "DocumentMoniker": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\test.cs",
+              "RelativeDocumentMoniker": "QLBH\\test.cs",
+              "ToolTip": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\test.cs",
+              "RelativeToolTip": "QLBH\\test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:47:19.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fMain.cs",
+              "DocumentMoniker": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\fMain.cs",
+              "RelativeDocumentMoniker": "QLBH\\fMain.cs",
+              "ToolTip": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\fMain.cs",
+              "RelativeToolTip": "QLBH\\fMain.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAhwC0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:53:25.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cs [Design]",
+              "DocumentMoniker": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\test.cs",
+              "RelativeDocumentMoniker": "QLBH\\test.cs",
+              "ToolTip": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\test.cs [Design]",
+              "RelativeToolTip": "QLBH\\test.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:45:53.964Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLBH.csproj",
+              "DocumentMoniker": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\QLBH.csproj",
+              "RelativeDocumentMoniker": "QLBH\\QLBH.csproj",
+              "ToolTip": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\QLBH.csproj",
+              "RelativeToolTip": "QLBH\\QLBH.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T09:36:49.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFDbContext.cs",
+              "DocumentMoniker": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\EFDbContext.cs",
+              "RelativeDocumentMoniker": "QLBH\\EFDbContext.cs",
+              "ToolTip": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\EFDbContext.cs",
+              "RelativeToolTip": "QLBH\\EFDbContext.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAEgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:48:59.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "QLBH\\Models\\Employee.cs",
+              "ToolTip": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\Models\\Employee.cs",
+              "RelativeToolTip": "QLBH\\Models\\Employee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:46:40.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "QLBH\\Models\\Order.cs",
+              "ToolTip": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\Models\\Order.cs",
+              "RelativeToolTip": "QLBH\\Models\\Order.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:48:38.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fNewProduct.cs",
+              "DocumentMoniker": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\fNewProduct.cs",
+              "RelativeDocumentMoniker": "QLBH\\fNewProduct.cs",
+              "ToolTip": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\fNewProduct.cs",
+              "RelativeToolTip": "QLBH\\fNewProduct.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAnwGgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:45:53.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fProcessOrderDetails.cs",
+              "DocumentMoniker": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\fProcessOrderDetails.cs",
+              "RelativeDocumentMoniker": "QLBH\\fProcessOrderDetails.cs",
+              "ToolTip": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\fProcessOrderDetails.cs",
+              "RelativeToolTip": "QLBH\\fProcessOrderDetails.cs",
+              "ViewState": "AQIAABoBAAAAAAAAAAAowCoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:01:28.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fProcessOrderDetails.cs [Design]",
+              "DocumentMoniker": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\fProcessOrderDetails.cs",
+              "RelativeDocumentMoniker": "QLBH\\fProcessOrderDetails.cs",
+              "ToolTip": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\fProcessOrderDetails.cs [Design]",
+              "RelativeToolTip": "QLBH\\fProcessOrderDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:52:22.97Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fNewProduct.cs [Design]",
+              "DocumentMoniker": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\fNewProduct.cs",
+              "RelativeDocumentMoniker": "QLBH\\fNewProduct.cs",
+              "ToolTip": "E:\\VAA 6\\New folder\\QLBH\\QLBH\\fNewProduct.cs [Design]",
+              "RelativeToolTip": "QLBH\\fNewProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:45:51.398Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
